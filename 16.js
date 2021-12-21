@@ -16,4 +16,4 @@ cose = [
 ]
 //fai in modo che nella console appaia il numero ?
 // selezionando oppurtunamente dall'array
-console.log(cose[1][1][1]);
+console.log(cose[2][1][2]);
